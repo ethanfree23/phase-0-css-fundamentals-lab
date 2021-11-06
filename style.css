@@ -3,3 +3,43 @@ body {
   height: 100%;
   margin: 0;
 }
+
+
+header {
+  text-align: center;
+}
+
+section figure img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+header nav a {
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: grey;
+}
+
+figure {
+  text-align: center;
+  font-size: 15px;
+}
+
+#featured-property {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+p#featured-property {
+  text-align: center;
+  width: 800px;
+}
+
+div {
+  float: left;
+  background-color: red;
+  text-align: center;
+  width: 25%;
+}
